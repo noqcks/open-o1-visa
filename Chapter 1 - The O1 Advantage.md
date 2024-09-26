@@ -14,8 +14,7 @@ There is O1-A and O1-B. The O1-A visa is for individuals in the fields of scienc
 
 It then goes further to say
 
-> To qualify for an O1 visa, you must demonstrate extraordinary ability by sustained national or international acclaim,
-> Extraordinary ability in the fields of science, education, business or athletics means a level of expertise indicating that you are one of the small percentage who have arisen to the very top of the field.
+> To qualify for an O1 visa, you must demonstrate extraordinary ability by sustained national or international acclaim, Extraordinary ability in the fields of science, education, business or athletics means a level of expertise indicating that you are one of the small percentage who have arisen to the very top of the field.
 
 So in this case, "extraordinary ability" refers to being in the top few percentage of your field. It is crucial to keep this in mind throughout your application process. When obtaining letters of recommendation and outlining evidence, it is important to present it in a way that the USCIS immigration officer can clearly understand that you are among the top 1-3% of individuals in your field.
 
@@ -29,7 +28,7 @@ The USCIS officer who is reviewing your case may not have knowledge in your fiel
 
 In order to obtain an O1 visa, it is necessary to have a sponsor. Without a sponsor, it is impossible to acquire an O1 visa.
 
-The sponsor can be a company that has offered you a job, a U.S. citizen who is an agent, or even your own company. For details on self-sponsorship through your own company, refer to [Appendix C: Self-Sponsoring through your own company](Appendix C - Self-Sponsoring Via Your Own Company.md)
+The sponsor can be a company that has offered you a job, a U.S. citizen who is an agent, or even your own company. For details on self-sponsorship through your own company, refer to [Appendix C: Self-Sponsoring via your own company.](./)
 
 ## Field of Expertise
 
@@ -39,17 +38,12 @@ If you are reading this, you are likely in the sciences or business field. If yo
 
 If you’re going for an O1-A in the field of business, the subsections of business that you could specify are things like:
 
-- Entrepreneurship: Demonstrating an ability in founding and growing a successful business.
-
-- Management: Showing exceptional skills in managing teams, projects, or entire companies.
-
-- Marketing: Proven expertise in innovative marketing strategies that have significantly impacted the industry.
-
-- Finance: Specializing in financial analysis, investment strategies, or financial management.
-
-- Sales: Demonstrating extraordinary ability in achieving outstanding sales results or leading high-performing sales teams.
-
-- Consulting: Recognized for providing exceptional business advice and strategies to other companies.
+* Entrepreneurship: Demonstrating an ability in founding and growing a successful business.
+* Management: Showing exceptional skills in managing teams, projects, or entire companies.
+* Marketing: Proven expertise in innovative marketing strategies that have significantly impacted the industry.
+* Finance: Specializing in financial analysis, investment strategies, or financial management.
+* Sales: Demonstrating extraordinary ability in achieving outstanding sales results or leading high-performing sales teams.
+* Consulting: Recognized for providing exceptional business advice and strategies to other companies.
 
 Each of these requirements, of course, necessitates providing evidence of your extraordinary ability. This evidence can include awards, publications, a high salary relative to others in the field, and other forms of recognition.
 
@@ -69,17 +63,14 @@ If you qualify for both, here are the advantages and disadvantages of each.
 
 ### Advantages
 
-- Spousal Work Authorization: Your spouse will be able to work for any U.S employer on an H-4 visa.
-
-- Easy employer change: To change employers on the O1 visa, you would need to re-submit an I-129 petition and wait for it to be approved before starting work for a new employer. However, an H1-B worker can start working immediately upon filing and will only need to leave the employer if the petition is denied.
+* Spousal Work Authorization: Your spouse will be able to work for any U.S employer on an H-4 visa.
+* Easy employer change: To change employers on the O1 visa, you would need to re-submit an I-129 petition and wait for it to be approved before starting work for a new employer. However, an H1-B worker can start working immediately upon filing and will only need to leave the employer if the petition is denied.
 
 ### Disadvantages
 
-- Annual cap and lottery: Only a limited number of H1-B petitions are allowed in any given year. Therefore, most years a lottery is conducted to select the limited number of people.
-
-- Start Dates: Regardless of when an H-1B application is filed, the start date is always in October.
-
-- Limit to Status: An H1-B visa is valid for 3 years and may only be extended once for an additional 3 years.
+* Annual cap and lottery: Only a limited number of H1-B petitions are allowed in any given year. Therefore, most years a lottery is conducted to select the limited number of people.
+* Start Dates: Regardless of when an H-1B application is filed, the start date is always in October.
+* Limit to Status: An H1-B visa is valid for 3 years and may only be extended once for an additional 3 years.
 
 ## O1
 
@@ -87,17 +78,12 @@ If you qualify for both, here are the advantages and disadvantages of each.
 
 You can continue to apply for and be approved for an O1 visa every 3 years without any limitations.
 
-- Work for multiple employers: You can hold multiple corporate-sponsored O1 visas simultaneously and work for multiple employers. You can also have your O1 visa sponsored by an agent, which would allow you to work for multiple workplaces under the same visa.
-
-- Apply anytime: There is no limit to the number of O1 visas issued per year, so you can apply at any time.
-
-- College dropouts accepted: A degree is not required for the O1 visa. I am proof that you don't need to be a PhD in order to successfully obtain the O1 visa.
-
-- No limit to the number of applications: Technically, there is no limit to the number of O1 petitions you can submit. Each time USCIS receives a petition, they are supposed to independently analyze it without taking into account previously failed submissions.
-
-- No salary or job title requirements: There is no requirement for specific job titles or minimum salaries for the O1 visa. As long as you can prove that you are an exceptional person in your field, you can get approved.
+* Work for multiple employers: You can hold multiple corporate-sponsored O1 visas simultaneously and work for multiple employers. You can also have your O1 visa sponsored by an agent, which would allow you to work for multiple workplaces under the same visa.
+* Apply anytime: There is no limit to the number of O1 visas issued per year, so you can apply at any time.
+* College dropouts accepted: A degree is not required for the O1 visa. I am proof that you don't need to be a PhD in order to successfully obtain the O1 visa.
+* No limit to the number of applications: Technically, there is no limit to the number of O1 petitions you can submit. Each time USCIS receives a petition, they are supposed to independently analyze it without taking into account previously failed submissions.
+* No salary or job title requirements: There is no requirement for specific job titles or minimum salaries for the O1 visa. As long as you can prove that you are an exceptional person in your field, you can get approved.
 
 ### Disadvantages
 
-- No spousal work permit: If you receive an O1 visa, your spouse will receive an O3 visa, but they will not be permitted to work in the U.S.
-
+* No spousal work permit: If you receive an O1 visa, your spouse will receive an O3 visa, but they will not be permitted to work in the U.S.
