@@ -36,7 +36,7 @@ Now, let's explore some potential qualifying prizes. While many of these are exc
 
 The point I want to emphasize is that if you specialize in entrepreneurship, receiving funding from venture capitalists is indeed an award. Typically, a substantial amount, such as $100,000, is considered meaningful and falls under the category of an award for fundraising. It is important to note that the funding raised does not have to be specifically for your current company; as long as itis within the same sector, it demonstrates your ability to successfully raise money as an entrepreneur. This achievement can contribute to fulfilling the criteria for the award.
 
-See [Appendix A](../group-2/appendix-a-making-a-case-for-venture-capital-as-an-award.md) for more information on how to make the case to USCIS that venture capital is an award.
+See [Appendix A](../appendices/appendix-a-making-a-case-for-venture-capital-as-an-award.md) for more information on how to make the case to USCIS that venture capital is an award.
 
 ### Evidence to Submit
 
@@ -85,7 +85,7 @@ Here are some examples of memberships that might work:
 
 * [Supra](../joinsupra.com)
 
-If you have been accepted into a startup accelerator like Y Combinator or Techstars, you can use this as evidence of your membership in an association. However, you will need to prove that you were accepted because of your individual merits, not just because of your company. I have personally witnessed O1 visa rejections based on this criterion, as the USCIS argued that it was the company that was accepted, not the individual. For more information on how to argue this case, please refer to [Appendix B.](../group-2/appendix-b-making-a-case-for-startup-accelerators-as-membership.md)
+If you have been accepted into a startup accelerator like Y Combinator or Techstars, you can use this as evidence of your membership in an association. However, you will need to prove that you were accepted because of your individual merits, not just because of your company. I have personally witnessed O1 visa rejections based on this criterion, as the USCIS argued that it was the company that was accepted, not the individual. For more information on how to argue this case, please refer to [Appendix B.](../appendices/appendix-b-making-a-case-for-startup-accelerators-as-membership.md)
 
 It is worth noting that there are national organizations that may be easier for you to gain acceptance into. Keep in mind that the wording specifies "as judged by recognized national or international experts in their disciplines or fields." For example, if you are an AI expert and your country has an association of AI thought leaders from academia and business, joining that association could be a perfect fit. One such example in Germany is [KI Verband](https://ki-verband.de/en/), but there are many others in different countries. You will need to conduct your own research based on your specific field.
 

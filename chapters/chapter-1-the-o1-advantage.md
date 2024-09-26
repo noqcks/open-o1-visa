@@ -28,7 +28,7 @@ The USCIS officer who is reviewing your case may not have knowledge in your fiel
 
 In order to obtain an O1 visa, it is necessary to have a sponsor. Without a sponsor, it is impossible to acquire an O1 visa.
 
-The sponsor can be a company that has offered you a job, a U.S. citizen who is an agent, or even your own company. For details on self-sponsorship through your own company, refer to [Appendix C: Self-Sponsoring via your own company.](../group-2/appendix-a-making-a-case-for-venture-capital-as-an-award.md)
+The sponsor can be a company that has offered you a job, a U.S. citizen who is an agent, or even your own company. For details on self-sponsorship through your own company, refer to [Appendix C: Self-Sponsoring via your own company.](../appendices/appendix-a-making-a-case-for-venture-capital-as-an-award.md)
 
 ## Field of Expertise
 
