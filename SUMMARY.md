@@ -1,7 +1,14 @@
 # Table of contents
 
-* [Terminology](README.md)
-* [Disclaimer](disclaimer.md)
+## Chapters
+
+* [Chapter 1 - The O1 Advantage](README.md)
+* [Chapter 2 - O1 Criteria](<Chapter 2 - O1 Criteria.md>)
+* [Chapter 3: Choosing a Lawyer](<Chapter 3 - Choosing a Lawyer.md>)
+* [Chapter 4: The application process](<Chapter 4 - The Application Process.md>)
+* [Chapter 5: Changing Employers](<Chapter 5 - Changing Lawyers.md>)
+* [Chapter 6: The Path to Permanent Residency](<Chapter 6 - The Path to Permanent Residency.md>)
+* [Chapter 7: Q & A](<Chapter 7 - Q\&A.md>)
 
 ## Appendices
 
@@ -11,12 +18,7 @@
 * [Appendix D: Letters](<Appendix D - Letters.md>)
 * [Appendix E: The Visa Interview](<Appendix E - The Visa Interview.md>)
 
-## Chapters
+## Extra
 
-* [Chapter 1 - The O1 Advantage](<Chapter 1 - The O1 Advantage.md>)
-* [Chapter 2 - O1 Criteria](<Chapter 2 - O1 Criteria.md>)
-* [Chapter 3: Choosing a Lawyer](<Chapter 3 - Choosing a Lawyer.md>)
-* [Chapter 4: The application process](<Chapter 4 - The Application Process.md>)
-* [Chapter 5: Changing Employers](<Chapter 5 - Changing Lawyers.md>)
-* [Chapter 6: The Path to Permanent Residency](<Chapter 6 - The Path to Permanent Residency.md>)
-* [Chapter 7: Q & A](<Chapter 7 - Q\&A.md>)
+* [Terminology](extra/terminology.md)
+* [Disclaimer](extra/disclaimer.md)
