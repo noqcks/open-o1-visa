@@ -36,7 +36,7 @@ Now, let's explore some potential qualifying prizes. While many of these are exc
 
 The point I want to emphasize is that if you specialize in entrepreneurship, receiving funding from venture capitalists is indeed an award. Typically, a substantial amount, such as $100,000, is considered meaningful and falls under the category of an award for fundraising. It is important to note that the funding raised does not have to be specifically for your current company; as long as itis within the same sector, it demonstrates your ability to successfully raise money as an entrepreneur. This achievement can contribute to fulfilling the criteria for the award.
 
-See [Appendix A](<README (1).md>) for more information on how to make the case to USCIS that venture capital is an award.
+See [Appendix A](<README (1) (1).md>) for more information on how to make the case to USCIS that venture capital is an award.
 
 ### Evidence to Submit
 

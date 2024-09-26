@@ -12,7 +12,7 @@
 
 ## Appendices
 
-* [Appendix A: Making a Case for Venture Capital as An Award](<README (1).md>)
+* [Appendix A: Making a Case for Venture Capital as An Award](<README (1) (1).md>)
 * [Appendix B: Making a case for startup accelerators as Membership](<Appendix B - Making a Case For Startup Accelerators as Membership.md>)
 * [Appendix C: Self-Sponsoring via your own company](<Appendix C - Self-Sponsoring Via Your Own Company.md>)
 * [Appendix D: Letters](<Appendix D - Letters.md>)
@@ -20,5 +20,9 @@
 
 ## Extra
 
-* [Terminology](extra/terminology.md)
-* [Disclaimer](extra/disclaimer.md)
+* [Terminology](<README (1).md>)
+* [Disclaimer](disclaimer.md)
+
+***
+
+* [Intro](intro.md)
