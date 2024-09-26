@@ -15,8 +15,7 @@ There is O1-A and O1-B. The O1-A visa is for individuals in the fields of scienc
 It then goes further to say
 
 > To qualify for an O1 visa, you must demonstrate extraordinary ability by sustained national or international acclaim,
-
-> Extraordinary ability in the fields of science, education, business or athletics means a level of expertise indicating that you are one of the small percentage who have arisen to the very top of the field
+> Extraordinary ability in the fields of science, education, business or athletics means a level of expertise indicating that you are one of the small percentage who have arisen to the very top of the field.
 
 So in this case, "extraordinary ability" refers to being in the top few percentage of your field. It is crucial to keep this in mind throughout your application process. When obtaining letters of recommendation and outlining evidence, it is important to present it in a way that the USCIS immigration officer can clearly understand that you are among the top 1-3% of individuals in your field.
 
@@ -30,7 +29,7 @@ The USCIS officer who is reviewing your case may not have knowledge in your fiel
 
 In order to obtain an O1 visa, it is necessary to have a sponsor. Without a sponsor, it is impossible to acquire an O1 visa.
 
-The sponsor can be a company that has offered you a job, a U.S. citizen who is an agent, or even your own company. For details on self-sponsorship through your own company, refer to Appendix C: Self-Sponsoring through your own company.
+The sponsor can be a company that has offered you a job, a U.S. citizen who is an agent, or even your own company. For details on self-sponsorship through your own company, refer to [Appendix C: Self-Sponsoring through your own company](Appendix C - Self-Sponsoring Via Your Own Company.md)
 
 ## Field of Expertise
 

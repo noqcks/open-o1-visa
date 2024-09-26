@@ -2,9 +2,9 @@
 
 Some people are unaware that venture capital funding can be used to satisfy the criteria for awards, but in fact, it can! When your lawyer is putting together your petition, one of the first sections in the petition will be the Exhibit List. The "exhibits" are sections of your application where evidence for criteria is shown. 
 
-The exhibit list serves as a TL;DR of your application and how you satisfy the criteria.It will look something like this  
+The exhibit list serves as a TL;DR of your application and how you satisfy the criteria. It will look something like this  
   
-—   
+---
 **EXHIBIT LIST & O-1A CLASSIFICATION MEMO**
 
 April 12, 2024
@@ -30,7 +30,7 @@ _Exhibit 2_
 - [Documentation from the USCIS website](https://web.archive.org/web/20170504113541/https://www.uscis.gov/eir/visa-guide/o-1a-extraordinary-ability-and-achievement/understanding-o-1a-requirements) (archives). The documentation demonstrates the USCIS has considered venture capital as an internationally recognized award in the field.
 - Forbes article titled “[The importance of Founder-Market Fit & How to Highlight it While Fundraising](https://www.forbes.com/sites/jilliancanning/2020/01/15/the-importance-of-founder-market-fit--how-to-highlight-it-while-fundraising/?sh=4106ceb17a4d)” and the Fundable infographic. The documentation demonstrates that venture capital is tantamount to an internationally recognized award in the field of technology entrepreneurship.
 - Scholarly article titled “[How do Venture Capitalists Make Decisions?](https://www.nber.org/system/files/working_papers/w22587/w22587.pdf)” The article demonstrates that these awards of venture capital granted to the Beneficiary constitute “awards for outstanding achievements” in the field of technology entrepreneurship.
-—
+—--
 
 In Exhibit 1, we provide evidence of funding from venture capitalists by including term sheets, SAFEs, or other documentation.
 

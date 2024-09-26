@@ -3,7 +3,7 @@
 The title of this appendix may mislead you. There is actually no such thing as true self-sponsorship with the O1 visa, but there is a workaround. You can sponsor yourself via a company that you own, but you need to establish an employer-employee relationship between yourself and the corporation. An employee-employer relationship cannot exist if it is impossible to be fired.
 
 According to USCIS wording:  
-\> While O-1 beneficiaries may not self-petition, a separate legal entity owned by the O-1 beneficiary may be eligible to file a petition on behalf of the O-1 beneficiary."
+> While O-1 beneficiaries may not self-petition, a separate legal entity owned by the O-1 beneficiary may be eligible to file a petition on behalf of the O-1 beneficiary."
 
 However, you can still be the majority or even sole stockholder of your corporation, as long as someone else in the corporation has the authority to fire you. 
 

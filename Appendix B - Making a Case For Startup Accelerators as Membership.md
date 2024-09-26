@@ -20,5 +20,5 @@ acceptance rate was less than 2%.
 
 You need to convince USCIS that the startup accelerator you were accepted into has a highly selective admission process, demonstrating its significance among other accelerators. Additionally, mentioning other successful startups or founders who have been part of this accelerator can further strengthen your case.
   
-\> Some of the highly accomplished startup founders that are included in this membership include Sam Altman, Gary Tan, etc, etc.
+> Some of the highly accomplished startup founders that are included in this membership include Sam Altman, Gary Tan, etc, etc.
 
