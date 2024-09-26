@@ -90,7 +90,7 @@ On your first day of work for your new employer in the U.S., you will be require
 
 #### Everyone Else - Change of Status or Consular Processing
 
-If you are not a Canadian, you will need to undergo a visa interview and receive a visa stamp from a U.S. consulate or embassy. See [Appendix E: The Visa Interview](<Appendix E - The Visa Interview.md>) for more details on how to ace the visa interview.
+If you are not a Canadian, you will need to undergo a visa interview and receive a visa stamp from a U.S. consulate or embassy. See [Appendix E: The Visa Interview](../appendices/appendix-e-the-visa-interview.md) for more details on how to ace the visa interview.
 
 Search the [U.S Consulate or Embassy](https://www.usembassy.gov/) website where you can find the closest consulate or embassy to you and where you’ll receive country specific instructions.
 
@@ -121,7 +121,7 @@ During the interview, the Consular Officer will ask you questions regarding your
 
 Typically, the interview itself lasts less than 10 minutes. Once approved at the consulate or embassy, your passports will be returned to you with a visa stamp.
 
-For more information on what to expect during the visa interview and tips on how to excel, please refer to [Appendix E: The Visa Interview.](<Appendix E - The Visa Interview.md>)
+For more information on what to expect during the visa interview and tips on how to excel, please refer to [Appendix E: The Visa Interview.](../appendices/appendix-e-the-visa-interview.md)
 
 #### Consular Processing
 

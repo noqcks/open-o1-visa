@@ -1,16 +1,23 @@
 # Table of contents
 
-* [Appendix A: Making a Case for Venture Capital as An Award](README.md)
-* [Appendix B: Making a case for startup accelerators as Membership](<Appendix B - Making a Case For Startup Accelerators as Membership.md>)
-* [Appendix C: Self-Sponsoring via your own company](<Appendix C - Self-Sponsoring Via Your Own Company.md>)
-* [Appendix D: Letters](<Appendix D - Letters.md>)
-* [Appendix E: The Visa Interview](<Appendix E - The Visa Interview.md>)
-* [Chapter 1 - The O1 Advantage](<Chapter 1 - The O1 Advantage.md>)
-* [Chapter 2 - O1 Criteria](<Chapter 2 - O1 Criteria.md>)
-* [Chapter 3: Choosing a Lawyer](<Chapter 3 - Choosing a Lawyer.md>)
-* [Chapter 4: The application process](<Chapter 4 - The Application Process.md>)
-* [Chapter 5: Changing Employers](<Chapter 5 - Changing Lawyers.md>)
-* [Chapter 6: The Path to Permanent Residency](<Chapter 6 - The Path to Permanent Residency.md>)
-* [Chapter 7: Q & A](<Chapter 7 - Q\&A.md>)
-* [Terminology](Terminology.md)
+* [Terminology](README.md)
 * [Disclaimer](disclaimer.md)
+
+## Appendices
+
+* [Appendix A: Making a Case for Venture Capital as An Award](appendices/appendix-a-making-a-case-for-venture-capital-as-an-award.md)
+* [Appendix B: Making a case for startup accelerators as Membership](appendices/appendix-b-making-a-case-for-startup-accelerators-as-membership.md)
+* [Appendix C: Self-Sponsoring via your own company](appendices/appendix-c-self-sponsoring-via-your-own-company.md)
+* [Appendix D: Letters](appendices/appendix-d-letters.md)
+* [Appendix E: The Visa Interview](appendices/appendix-e-the-visa-interview.md)
+
+## Chapters
+
+* [Page 1](chapters/page-1.md)
+* [Chapter 1 - The O1 Advantage](chapters/chapter-1-the-o1-advantage.md)
+* [Chapter 2 - O1 Criteria](chapters/chapter-2-o1-criteria.md)
+* [Chapter 3: Choosing a Lawyer](chapters/chapter-3-choosing-a-lawyer.md)
+* [Chapter 4: The application process](chapters/chapter-4-the-application-process.md)
+* [Chapter 5: Changing Employers](chapters/chapter-5-changing-lawyers.md)
+* [Chapter 6: The Path to Permanent Residency](chapters/chapter-6-the-path-to-permanent-residency.md)
+* [Chapter 7: Q & A](chapters/chapter-7-q-and-a.md)

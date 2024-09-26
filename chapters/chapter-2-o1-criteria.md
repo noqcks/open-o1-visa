@@ -36,7 +36,7 @@ Now, let's explore some potential qualifying prizes. While many of these are exc
 
 The point I want to emphasize is that if you specialize in entrepreneurship, receiving funding from venture capitalists is indeed an award. Typically, a substantial amount, such as $100,000, is considered meaningful and falls under the category of an award for fundraising. It is important to note that the funding raised does not have to be specifically for your current company; as long as itis within the same sector, it demonstrates your ability to successfully raise money as an entrepreneur. This achievement can contribute to fulfilling the criteria for the award.
 
-See [Appendix A](./) for more information on how to make the case to USCIS that venture capital is an award.
+See [Appendix A](../appendices/appendix-a-making-a-case-for-venture-capital-as-an-award.md) for more information on how to make the case to USCIS that venture capital is an award.
 
 ### Evidence to Submit
 
@@ -83,9 +83,9 @@ Here are some examples of memberships that might work:
 
 **Product Managers**
 
-* [Supra](joinsupra.com)
+* [Supra](../joinsupra.com)
 
-If you have been accepted into a startup accelerator like Y Combinator or Techstars, you can use this as evidence of your membership in an association. However, you will need to prove that you were accepted because of your individual merits, not just because of your company. I have personally witnessed O1 visa rejections based on this criterion, as the USCIS argued that it was the company that was accepted, not the individual. For more information on how to argue this case, please refer to [Appendix B.](<Appendix B - Making a Case For Startup Accelerators as Membership.md>)
+If you have been accepted into a startup accelerator like Y Combinator or Techstars, you can use this as evidence of your membership in an association. However, you will need to prove that you were accepted because of your individual merits, not just because of your company. I have personally witnessed O1 visa rejections based on this criterion, as the USCIS argued that it was the company that was accepted, not the individual. For more information on how to argue this case, please refer to [Appendix B.](../appendices/appendix-b-making-a-case-for-startup-accelerators-as-membership.md)
 
 It is worth noting that there are national organizations that may be easier for you to gain acceptance into. Keep in mind that the wording specifies "as judged by recognized national or international experts in their disciplines or fields." For example, if you are an AI expert and your country has an association of AI thought leaders from academia and business, joining that association could be a perfect fit. One such example in Germany is [KI Verband](https://ki-verband.de/en/), but there are many others in different countries. You will need to conduct your own research based on your specific field.
 
@@ -211,7 +211,7 @@ If the immigration officer is unfamiliar with the company due to it being a less
 
 To qualify for the judging criteria, you need to have evaluated the work of your peers in the same field in which you are applying. If you are an entrepreneur with a startup in the AI industry, judging AI hackathons or serving as a judge in a pitch competition are two excellent ways to meet this requirement.
 
-It is important to be cautious about the types of hackathons that are included here. I have seen many people recommend judging hackathons on platforms like [Major League Hacking](<Chapter 2 - O1 Criteria.md>), but I highly doubt that these would be considered acceptable.
+It is important to be cautious about the types of hackathons that are included here. I have seen many people recommend judging hackathons on platforms like [Major League Hacking](chapter-2-o1-criteria.md), but I highly doubt that these would be considered acceptable.
 
 The reason for this is that you must have been invited to judge based on your exceptional qualities. Supporting documentation, such as an invitation letter from the hackathon organizer, stating something like "Person X was selected as a judge for our hackathon due to their extensive experience in cutting-edge AI technologies like neural networks," can be extremely valuable to include as evidence.If you can get onto hackathons from well known corporations this is even better, because it makes it simpler for the immigration officer. If they see you judged a hackathon that was hosted by Microsoft, they’re much more likely to deem that exceptional than a hackathon put on by a local meetup group.
 
@@ -219,13 +219,13 @@ It's important to ensure that you are evaluating your peers rather than students
 
 If you have experience peer-reviewing journal articles, this can also fulfill the requirement. Just make sure you have supporting evidence such as letters or other proof that demonstrate your role as a reviewer.
 
-Another type of reviewing that _should_ satisfy this requirement is becoming a manuscript reviewer for publishers. Although I haven't personally done this, I believe it would be acceptable. [Manning](https://www.manning.com/) offers a program where you can become a reviewer for upcoming books in your field of expertise. [Become a Manning manuscript reviewer](https://www.manning.com/manuscript-reviews). While this may require more time, it could be a good alternative if you’re unable to find hackathons to judge. Some other publishers that may take on reviewers is O’Reilly or NetGalley. If you end up reviewing these books, you will get acknowledged inside the book which you can use as proof. ![Example of Manning reviewer acknowledgement](DraggedImage.png)
+Another type of reviewing that _should_ satisfy this requirement is becoming a manuscript reviewer for publishers. Although I haven't personally done this, I believe it would be acceptable. [Manning](https://www.manning.com/) offers a program where you can become a reviewer for upcoming books in your field of expertise. [Become a Manning manuscript reviewer](https://www.manning.com/manuscript-reviews). While this may require more time, it could be a good alternative if you’re unable to find hackathons to judge. Some other publishers that may take on reviewers is O’Reilly or NetGalley. If you end up reviewing these books, you will get acknowledged inside the book which you can use as proof. ![Example of Manning reviewer acknowledgement](../DraggedImage.png)
 
 #### How to judge hackathons
 
 If you want to judge a hackathon to meet this requirement, here are some tips to help you get started.
 
-The first method is to visit websites like [lu.ma](<Chapter 2 - O1 Criteria.md>), [meetup.com](<Chapter 2 - O1 Criteria.md>), [lablab.ai](<Chapter 2 - O1 Criteria.md>), or LinkedIn, and search for hackathons in your city or nearby cities. Identify hackathons that you think would meet this requirement (not hackathons with students!). Then, look up the organizer for the event and send them a compelling email about how you would like to help judge the event and what skills you bring to the table. Keep in mind that you may need to send quite a few emails before landing a spot.
+The first method is to visit websites like [lu.ma](chapter-2-o1-criteria.md), [meetup.com](chapter-2-o1-criteria.md), [lablab.ai](chapter-2-o1-criteria.md), or LinkedIn, and search for hackathons in your city or nearby cities. Identify hackathons that you think would meet this requirement (not hackathons with students!). Then, look up the organizer for the event and send them a compelling email about how you would like to help judge the event and what skills you bring to the table. Keep in mind that you may need to send quite a few emails before landing a spot.
 
 The second, easier method is if you already have a strong network or are part of an accelerator like Y Combinator or TechStars. You can post on LinkedIn or message people you know who hold leadership positions, letting them know that you're looking for judging opportunities and asking them to keep you in mind when they host a hackathon.
 
