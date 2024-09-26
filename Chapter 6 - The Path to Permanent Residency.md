@@ -1,4 +1,4 @@
-# Chapter 6:  The Path to Permanent Residency
+# Chapter 6: The Path to Permanent Residency
 
 While an O1 visa is a non-immigrant visa, meaning it allows you to stay in the United States for a specific period of time, it is also considered dual-intent. This means that you can express your intention to stay permanently and apply for other visas that can eventually lead to obtaining a green card, also known as permanent residency.
 
@@ -6,17 +6,17 @@ The process of converting an O1 visa to a green card involves transitioning from
 
 Each employment-based green card category is classified by preference, which is determined by the immigrant's qualifications, including job skills, education, and work experience. These preference categories are crucial as they determine how quickly an immigrant can obtain a green card. The categories include:
 
-**1st Preference**: The employment first preference category includes the three EB-1 subcategories. The EB-1A for individuals with extraordinary ability, the EB-1B for outstanding professors and researchers, and the EB-1C for multinational managers and executives. 
+**1st Preference**: The employment first preference category includes the three EB-1 subcategories. The EB-1A for individuals with extraordinary ability, the EB-1B for outstanding professors and researchers, and the EB-1C for multinational managers and executives.
 
 **2nd Preference**: The employment second preference category includes the EB-2 PERM, which is one of the most common immigrant visas. It also includes the EB-2 National Interest Waiver (NIW), an often overlooked immigrant visa that can be self-petitioned.
 
 **3rd Preference**: The employment third preference category includes EB-3 petitions for skilled workers and professionals.
 
-**4th Preference**: There are many subgroups within the employment fourth preference category. Refer to USCIS's website for a full list. 
+**4th Preference**: There are many subgroups within the employment fourth preference category. Refer to USCIS's website for a full list.
 
-**5th Preference**: The employment fifth category includes the EB-5 immigrant investment visa. 
+**5th Preference**: The employment fifth category includes the EB-5 immigrant investment visa.
 
-**Other Workers and Certain Religious Workers**: These additional categories include unskilled worker immigrant petitions and the SR visa category.  
+**Other Workers and Certain Religious Workers**: These additional categories include unskilled worker immigrant petitions and the SR visa category.
 
 ## EB Visas Types
 
@@ -52,23 +52,25 @@ If you do not have an Advanced Degree, you can qualify for the EB-2 by satisfyin
 
 #### The Three-Pronged Test for NIW
 
-**Prong 1**: The applicant's proposed endeavor has substantial merit and national importance. 
+**Prong 1**: The applicant's proposed endeavor has substantial merit and national importance.
 
-The first prong has two requirements—that the applicant's proposed endeavor has both substantial merit and national importance. 
+The first prong has two requirements—that the applicant's proposed endeavor has both substantial merit and national importance.
 
-Substantial merit refers to the general importance and value of the proposed work, whereas national importance refers to the specific impact of the proposed work on the United States. 
+Substantial merit refers to the general importance and value of the proposed work, whereas national importance refers to the specific impact of the proposed work on the United States.
 
 Some examples of substantial merit:
-- Conducting cutting-edge research in a critical scientific field, such as cancer treatment, renewable energy, or artificial intelligence.
-- Developing innovative technologies or products that address significant problems, such as climate change, cybersecurity threats, or public health crises.
+
+* Conducting cutting-edge research in a critical scientific field, such as cancer treatment, renewable energy, or artificial intelligence.
+* Developing innovative technologies or products that address significant problems, such as climate change, cybersecurity threats, or public health crises.
 
 Some examples of endeavours of national importance:
-- Helping enhance national security, such as cybersecurity or counter-terrorism
-- Research projects that would advance knowledge in a specific field
-- Generating significant employment opportunities
-- Improving the education system, infrastructure, or environmental sustainability 
 
-**Prong 2: ** The applicant is well-positioned to advance the proposed endeavor.
+* Helping enhance national security, such as cybersecurity or counter-terrorism
+* Research projects that would advance knowledge in a specific field
+* Generating significant employment opportunities
+* Improving the education system, infrastructure, or environmental sustainability
+
+\*\*Prong 2: \*\* The applicant is well-positioned to advance the proposed endeavor.
 
 The second prong considers whether the applicant's past achievements and current resources will enable them to accomplish their proposed work.
 
@@ -76,9 +78,6 @@ The second prong considers whether the applicant's past achievements and current
 
 According to the Matter of Dhanasar (which introduced the three prongs of the NIW), U.S. Citizenship and Immigration Services (USCIS) considers a few different factors when assessing the third prong:
 
-- It would be impractical for the applicant to obtain a job offer or labor certification: For example, if the applicant is an entrepreneur, it might be impractical for them to obtain a job offer or labor certification.
-- Even assuming other qualified U.S. workers are available, the U.S. would still benefit from the applicant's contributions: Perhaps more qualified U.S. workers are available, but the applicant is still doing critical work. 
-- The applicant's work is time-sensitive: The applicant's proposed work is important and time-sensitive, but going through the PERM process would delay it. 
-
-
-
+* It would be impractical for the applicant to obtain a job offer or labor certification: For example, if the applicant is an entrepreneur, it might be impractical for them to obtain a job offer or labor certification.
+* Even assuming other qualified U.S. workers are available, the U.S. would still benefit from the applicant's contributions: Perhaps more qualified U.S. workers are available, but the applicant is still doing critical work.
+* The applicant's work is time-sensitive: The applicant's proposed work is important and time-sensitive, but going through the PERM process would delay it.
