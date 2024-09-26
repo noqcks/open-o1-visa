@@ -4,8 +4,8 @@
 
 ## Chapters
 
-* [Chapter 1 - The O1 Advantage](chapters/chapter-1-the-o1-advantage.md)
-* [Chapter 2 - O1 Criteria](chapters/chapter-2-o1-criteria.md)
+* [Chapter 1: The O1 Advantage](chapters/chapter-1-the-o1-advantage.md)
+* [Chapter 2: O1 Criteria](chapters/chapter-2-o1-criteria.md)
 * [Chapter 3: Choosing a Lawyer](chapters/chapter-3-choosing-a-lawyer.md)
 * [Chapter 4: The application process](chapters/chapter-4-the-application-process.md)
 * [Chapter 5: Changing Employers](chapters/chapter-5-changing-lawyers.md)
