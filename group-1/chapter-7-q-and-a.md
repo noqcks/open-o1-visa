@@ -44,7 +44,7 @@ You need to be in the United States at least 90 continuous days before you can f
 
 > Q. I was accepted into a startup accelerator. Can I use this as evidence to satisfy the Membership criteria?
 >
-> Yes, check out [Appendix B!](<Appendix B - Making a Case For Startup Accelerators as Membership.md>)
+> Yes, check out [Appendix B!](../group-2/appendix-b-making-a-case-for-startup-accelerators-as-membership.md)
 
 > Q. My spouse has an O-3 visa. Is there any way we can get another visa that allows them to work?
 

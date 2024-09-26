@@ -50,4 +50,4 @@ Here are some questions they may ask:
 * What work will you be doing in the U.S.?
 * How long do you plan on staying in the U.S.?
 
-There are also some companies that offer coaching services for the O1 visa interview that you could try out, [Argo Visa](\[https:/www.argovisa.com/]/) is one (not affiliated with them).
+There are also some companies that offer coaching services for the O1 visa interview that you could try out, [Argo Visa](../\[https:/www.argovisa.com/]/) is one (not affiliated with them).
