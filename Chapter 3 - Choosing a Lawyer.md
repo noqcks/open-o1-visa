@@ -6,7 +6,11 @@ There are some individuals who have applied for an O1 visa without a lawyer, and
 
 This is the average fee breakdown for an O1 application
 
-Lawyer Fees: $6-$12k USD Government Filing Fee: $460 Premium Processing: $2500
+_Lawyer Fees_: $6-$12k USD&#x20;
+
+_Government Filing Fee_: $460&#x20;
+
+_Premium Processing Fee_: $2500
 
 The premium processing fee is a fee paid to USCIS for an expedited decision on your application. By opting for premium processing, you can expect to receive a decision within 15 calendar days, while normal processing could take up to six months. I highly recommend choosing premium processing, despite the slightly higher cost. It's important to note that if you have premium processing and receive a Request for Evidence (RFE), and then submit a response to the RFE, the premium processing still applies. This means that USCIS will respond to your RFE within 15 days as well.
 
@@ -28,7 +32,7 @@ On this call, you can ask the following questions about the law firm to determin
 * Do you have templates for letters of recommendation, or will you write the letters of recommendations for me?
 * How many cases do you take on a time? What is your capacity at the moment?
 
-nquiring about their O1 approval rate is a useful indicator that can help you gauge their performance compared to other lawyers. The current global O1 approval rate stands at approximately 95% (2023) Therefore, if their approval rate is lower than this, it would be advisable to continue your search and find another lawyer.
+Inquiring about their O1 approval rate is a useful indicator that can help you gauge their performance compared to other lawyers. The current global O1 approval rate stands at approximately 95% (2023) Therefore, if their approval rate is lower than this, it would be advisable to continue your search and find another lawyer.
 
 I highly recommend finding a lawyer who can assist you in drafting letters, or at least provide you with templates to use. Writing letters of support can be a daunting and challenging task, especially if you are unfamiliar with their content. During my O1 journey, I worked with two different lawyers. The first lawyer, who was unsuccessful with my O1, provided me with templates for letters of recommendation that I used. I would write the letters and have them reviewed before requesting a signature. While this process is acceptable, it often involves a lot of back and forth between you and the lawyer, so I would suggest avoiding it if possible. Instead, try to find a lawyer who will write the letters for you.
 
